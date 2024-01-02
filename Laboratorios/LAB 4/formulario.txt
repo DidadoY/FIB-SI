@@ -1,0 +1,9 @@
+Pregunta1 - Resposta: Price
+Pregunta3 - Resposta: c363bd26
+Pregunta4 - Resposta: Fail Open Error Handling
+Pregunta5 - Resposta: 65432cjgjt
+Pregunta6 - Resposta: 33843453533
+Pregunta7 - Resposta: { "From": "Boston", "To": "Seattle",  "flights": [ {"stops": "0", "transit" : "N/A", "price": "$60"}, {"stops": "2", "transit" : "Newark,Chicago", "price": "$300"}  ] }
+Pregunta8 - Resposta: 5.5.28
+Pregunta9 - Resposta: CVE-2009-3548
+Pregunta10 - Resposta: Apache-Coyote/1.1
